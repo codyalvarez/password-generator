@@ -53,6 +53,7 @@ class PasswordGenerator::CLI
       exit
     else
       puts "Sorry, not a valid option. Try again."
+      generator
     end   
   end
 end

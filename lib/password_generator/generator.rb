@@ -1,2 +1,2 @@
-class PasswordGenerator::Generator
-end
+# class PasswordGenerator::Generator
+# end
